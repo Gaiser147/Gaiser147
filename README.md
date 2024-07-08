@@ -1,4 +1,4 @@
-##Experience in:
+## Experience in:
 - Cyrpto (mining trading)
 - Reverse Engeneering
 - Meshtastic
@@ -6,6 +6,7 @@
   - Rooting
   - Custom Roms
   - 
-##Currently Learning:
+## [Currently Learning:](https://github.com/Avo-Catto/ProjectX)
+See project: 
 - Fullstack development
-- Frontend (UI/UX9
+- Frontend (UI/UX)
