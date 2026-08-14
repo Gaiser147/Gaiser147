@@ -61,5 +61,3 @@ Android internals (custom ROMs, bootloader and boot image work), reverse enginee
 - Learning **C** properly, through an ESP32 project, so I arrive at university with something usable rather than syntax knowledge
 - Documenting older projects that never got a README | Hate docs :-( 
 - Looking for a **working student position (Werkstudent) in embedded software or edge AI** around Berlin and Potsdam, starting October 2026
-
-Reach me at **Leo@berndt-hentschke.de** · [LinkedIn](https://www.linkedin.com/in/leonhard-hentschke) · [YouTube: Wissen mit Leo](https://www.youtube.com/@wissenmitleo8906)
