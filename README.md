@@ -1,9 +1,5 @@
 # Leonhard Hentschke
 
-Embedded systems and edge AI. Starting my B.Sc. in Computer Science at the University of Potsdam in October 2026.
-
----
-
 ## What I work with
 
 **Edge AI / Computer Vision:** YOLOv11, ONNX, HEF conversion, Raspberry Pi 5 + Hailo AI HAT, own datasets
